@@ -13,6 +13,6 @@ Aplikacja ta pozwala na wybór rodzaju ubrania z listy rozwijanej i przymierzeni
 * Asocjacja - klasy bluza i koszulka.
 * Kompozycja - obiekt klasy Projekt zawiera listę obiektów klasy Ubranie, które są komponowane w celu utworzenia projektu stroju.
 
-# ∧,,,∧
-# (  ̳• · • ̳)
-# /    づ♡ 
+###    ᐢ⑅ᐢ
+### ꒰ ˶• ༝ •˶꒱
+### ./づ~ ♡
